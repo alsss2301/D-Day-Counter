@@ -1,0 +1,14 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    flex-direction: column; /*아이템을 세로로 배치*/
+    height: 30vh; /*vh는 viewport height현재 실행중인 스크린 크기에 맞춰 크기 반환 100vh가 전체화면*/
+  }
+  div {
+    margin: 0 auto; /*countdown글씨 중앙에 오기*/
+    text-align: center; /*해당 텍스트를 화면 중앙에 배치*/
+  } /*글씨 코드 */
+  
