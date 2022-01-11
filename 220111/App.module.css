@@ -1,0 +1,32 @@
+.Block {
+
+    width: 500px;
+    height: 740px;
+
+    
+    background: bisque;
+    border-radius: 16px; /*박스 둥글게 만들기*/
+  
+    margin: 0 auto;
+  
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    display: flex;
+    flex-direction: column;
+  
+  
+}
+
+.Input {
+    background-color: white;
+    width: 20vh;
+    height: 25px;
+    font-size: 14px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.InputForm {
+    text-align: center;
+    margin: auto;
+}
