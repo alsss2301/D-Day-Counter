@@ -1,0 +1,6 @@
+.App {
+    background-color: black;
+    width: 100vw; /*100%라고 해도 됨*/
+    height: 100vh;
+    position: absolute; /**backgroundcolor꽉차게* 부모태그를 기준으로 요소 배치, 없다면 body기준*/
+}

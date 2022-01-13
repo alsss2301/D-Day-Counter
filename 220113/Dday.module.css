@@ -1,0 +1,15 @@
+.Font {
+    color : white;
+    font-size: 50px;
+    margin : 0 auto;
+    text-align: center; 
+}
+
+.Date {
+    color : white;
+    font-size: 50px;
+    margin : 0 auto;
+    text-align: center;
+    width: 25vw;
+    height: 30vh;
+}
