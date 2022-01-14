@@ -1,0 +1,28 @@
+.Font {
+    color : white;
+    font-family: "Bold Italic", sans-serif;
+    font-size: 70px;
+    margin : 0 auto;
+    text-align: center; 
+    height: 130px;
+}
+
+.Date {
+    color : white;
+    font-size: 70px;
+    font-family: "Magun Gothic", sans-serif;
+    margin : 0 auto;
+    text-align: center;
+    width: 25vw;
+    height: 27vh;
+}
+
+.Text {
+    color : white;
+    font-size: 20px;
+    font-family: "Magun Gothic", sans-serif;
+    margin : 0 auto;
+    text-align: center;
+    width: 25vw;
+    height: 7vh;
+}
