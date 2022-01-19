@@ -1,0 +1,36 @@
+.Font {
+    color : white;
+    font-family: "Bold Italic", sans-serif;
+    font-size: 70px;
+    margin : 0 auto;
+    text-align: center; 
+    height: 130px;
+    padding-top: 6rem; /*위에서부터 간격*/
+}
+
+.Date {
+    color : white;
+    font-size: 115px;
+    font-family: "Magun Gothic", sans-serif;
+    justify-content: center;
+    margin : 0 auto;
+    margin-top: 4rem;
+    word-spacing: 70px;
+    text-align: center;
+    width: 60vw;
+    height: 27vh;
+}
+
+.Text {
+    position: absolute;
+    color : white;
+    font-size: 20px;
+    font-family: "Magun Gothic", sans-serif;
+    justify-content: center;
+    margin : 0 auto;
+    margin-top: 2rem;
+    word-spacing: 170px;
+    text-align: center;
+    width: 65vw;
+    height: 27vh;
+}

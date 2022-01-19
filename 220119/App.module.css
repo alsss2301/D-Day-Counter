@@ -1,0 +1,16 @@
+.App {
+    background-image: url("C:\Users\LG\OneDrive\Desktop\background.jpg");
+    background-size: cover; /*화면 꽉차게*/
+    background-position: center center;
+    width: 100vw; /*100%라고 해도 됨*/
+    height: 100vh;
+    position: absolute; /**backgroundcolor꽉차게* 부모태그를 기준으로 요소 배치, 없다면 body기준*/
+}
+
+.Overlay {
+    background-color: black;
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.55;
+}
